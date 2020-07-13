@@ -1,17 +1,10 @@
-# Rohit Ghumare
-[![Linkedin Badge](https://img.shields.io/badge/-RohitGhumare-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rohit-ghumare/)](https://www.linkedin.com/in/rohit-ghumare/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@ghumare64/)](https://medium.com/@ghumare64/)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ghumare64@gmail.com)](mailto:ghumare64@gmail.com)
+# Bhushan Yadav
+[![Linkedin Badge](https://img.shields.io/badge/-RohitGhumare-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhushanyadav07/)](https://www.linkedin.com/in/bhushanyadav07/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@ghumare64/)](https://medium.com/@ghumare64/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bhushanyadav8939@gmail.com)](mailto:bhushanyadav8939@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Rohit Ghumare, Student at 👨‍💻 Datta Meghe College of Engineering Pursuing BE-CSE. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+I am Bhushan Yadav interested in working on Machine Learning based research projects which involves creating intelligent systems which are capable of taking decisions and reducing human effort through automation by, learning and extracting valuable insights from data-sets. My current goal is to acquire skill-sets required by Data Scientists through self-study, R&D projects and industry exposure, and subsequently pursue my research interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Artificial Intelligence. 
 
-## 🧐 About
-- 🤠 Founder at [Trainings&Internships](https://www.linkedin.com/company/31274568/)
-- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
-- 🔭 I am currently a LinuxWorldIndia Brand Ambassador, [Co-Learning Lounge Community Contributor **Projects**](https://github.com/colearninglounge/co-learning-lounge), [Crio.do Student Developer](https://criodo.github.io/Crio-Launch-Feb-2020-ghumare64/), Data Science Mentor, Technical AI Writer, Google Developer Groups Member and been a part of many communites and Founder of Big initiatives.
-- 🌱 I love speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community.
-- 👯 And Many more...
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
@@ -20,7 +13,7 @@ I'm Rohit Ghumare, Student at 👨‍💻 Datta Meghe College of Engineering Pur
 - 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, #Computer Vision, #Profile Building #CampusOps and anything you like... I'll try my best to help you.😊❤
 ---
 <!--
-**rohitg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bhushan's_portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
