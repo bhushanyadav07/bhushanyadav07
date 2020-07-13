@@ -1,5 +1,5 @@
 # Bhushan Yadav
-[![Linkedin Badge](https://img.shields.io/badge/-RohitGhumare-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhushanyadav07/)](https://www.linkedin.com/in/bhushanyadav07/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@ghumare64/)](https://medium.com/@ghumare64/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bhushan Yadav-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhushanyadav07/)](https://www.linkedin.com/in/bhushanyadav07/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@ghumare64/)](https://medium.com/@ghumare64/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bhushanyadav8939@gmail.com)](mailto:bhushanyadav8939@gmail.com)
 ---
 ## Hi there 👋,           
