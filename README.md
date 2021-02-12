@@ -5,6 +5,17 @@
 ## Hi there 👋,           
 I am Bhushan Yadav interested in working on Machine Learning based research projects which involves creating intelligent systems which are capable of taking decisions and reducing human effort through automation by, learning and extracting valuable insights from data-sets. My current goal is to acquire skill-sets required by Data Scientists through self-study, R&D projects and industry exposure, and subsequently pursue my research interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Artificial Intelligence. 
 
+💻 **Things I love**
+- Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Frontend Development ✍️
+- Research & Development 🧐
+- Data Science 😬
+
+<a href="https://gitstats.me/karan19100">
+    <img width="420" height="auto" align="right" alt="Prerak's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=karan19100&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
+</a>
+
 🛠**Tech Stack**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -29,9 +40,20 @@ I am Bhushan Yadav interested in working on Machine Learning based research proj
 <br />
 <br />
 
-<!--
-**bhushan's_portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Connect with me**
 
-[![Twitter Badge]  [![Medium Badge]
+<img align="left" alt="https://karanshah1910.me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
--->
+<br />
+
+---
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+
+
