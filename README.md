@@ -6,7 +6,7 @@
 I am Bhushan Yadav interested in working on Machine Learning based research projects which involves creating intelligent systems which are capable of taking decisions and reducing human effort through automation by, learning and extracting valuable insights from data-sets. My current goal is to acquire skill-sets required by Data Scientists through self-study, R&D projects and industry exposure, and subsequently pursue my research interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Artificial Intelligence. 
 
 💻 **Things I love**
-- Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Coding <img src="https://github.com/bhushanyadav07/bhushanyadav07/blob/master/developer1111.gif" width="30"> 
 - Frontend Development ✍️
 - Research & Development 🧐
 - Data Science 😬
