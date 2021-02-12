@@ -9,6 +9,6 @@ I am Bhushan Yadav interested in working on Machine Learning based research proj
 <!--
 **bhushan's_portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge]
+[![Twitter Badge]  [![Medium Badge]
 
 -->
