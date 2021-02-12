@@ -11,11 +11,6 @@ I am Bhushan Yadav interested in working on Machine Learning based research proj
 - Research & Development 🧐
 - Data Science 😬
 
-<a href="https://gitstats.me/karan19100">
-    <img width="420" height="auto" align="right" alt="Prerak's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=karan19100&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
-</a>
-
 🛠**Tech Stack**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
