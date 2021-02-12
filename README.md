@@ -5,7 +5,8 @@
 ## Hi there 👋,           
 I am Bhushan Yadav interested in working on Machine Learning based research projects which involves creating intelligent systems which are capable of taking decisions and reducing human effort through automation by, learning and extracting valuable insights from data-sets. My current goal is to acquire skill-sets required by Data Scientists through self-study, R&D projects and industry exposure, and subsequently pursue my research interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Artificial Intelligence. 
 
-
+## Skills :
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **bhushan's_portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
