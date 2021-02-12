@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/karan19100/karan19100/blob/main/developer1111.gif" alt="Coder GIF" width="420" height="330">
+
 # Bhushan Yadav
 [![Linkedin Badge](https://img.shields.io/badge/-BhushanYadav-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhushanyadav07/)](https://www.linkedin.com/in/bhushanyadav07/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bhushanyadav8939@gmail.com)](mailto:bhushanyadav8939@gmail.com)
