@@ -6,7 +6,7 @@ I am Bhushan Yadav interested in working on Machine Learning based research proj
 
 💻 **Things I love**
 - Coding 
-- Mean Stack Developer ✍️
+- Mern Stack Developer ✍️
 - React Native
 - Data Science 
 
