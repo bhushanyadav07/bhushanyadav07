@@ -1,4 +1,3 @@
-
 <img align="right" src="https://github.com/bhushanyadav07/bhushanyadav07/blob/master/developer1111.gif" alt="Coder GIF" width="420" height="330">
 
 ## Hi there 👋,           
