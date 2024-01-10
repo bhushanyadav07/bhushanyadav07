@@ -1,13 +1,12 @@
 <img align="right" src="https://github.com/bhushanyadav07/bhushanyadav07/blob/master/developer1111.gif" alt="Coder GIF" width="420" height="330">
 
 ## Hi there 👋,           
-I am Bhushan Yadav interested in working on Machine learning-based research projects which involves creating intelligent systems which are capable of taking decisions and reducing human effort through automation by, learning and extracting valuable insights from data-sets and also love to develop interesting hybrid apps using react native . My current goal is to acquire skill-sets required for developement through self-study, R&D projects and industry exposure, and subsequently pursue my interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Artificial Intelligence/open source. 
+I'm a passionate developer with a strong interest in building PWA applications using React Native. I'm constantly seeking opportunities to expand my skillset through self-directed learning, R&D projects, and industry exposure. My current focus is on acquiring expertise in areas like front-end development, UI/UX design, and cross-platform app development. I'm excited to leverage my growing skillset to create innovative and user-friendly applications that solve real-world problems. I'm also an open-source enthusiast and hope to contribute to the developer community in the future.
 
 💻 **Things I love**
 - Coding 
 - Mern Stack Developer ✍️
 - React Native
-- Data Science 
 
 🛠**Tech Stack**
 
