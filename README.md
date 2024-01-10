@@ -6,7 +6,6 @@ I'm a passionate developer with a strong interest in building PWA applications u
 💻 **Things I love**
 - Coding 
 - Mern Stack Developer ✍️
-- React Native
 
 🛠**Tech Stack**
 
