@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/bhushanyadav07/bhushanyadav07/blob/master/developer1111.gif" alt="Coder GIF" width="420" height="330">
 
 ## Hi there 👋,           
-I'm a passionate developer with a strong interest in building PWA applications using React Native. I'm constantly seeking opportunities to expand my skillset through self-directed learning, R&D projects, and industry exposure. My current focus is on acquiring expertise in areas like front-end development, UI/UX design, and cross-platform app development. I'm excited to leverage my growing skillset to create innovative and user-friendly applications that solve real-world problems. I'm also an open-source enthusiast and hope to contribute to the developer community in the future.
+I'm a passionate developer with a strong interest in building Progressive Web Applications (PWAs) using Angular. I’m constantly exploring new ways to enhance my expertise through self-directed learning, R&D projects, and real-world industry experience. My current focus is on mastering front-end development with Angular, deepening my understanding of UI/UX design, and learning best practices for scalable and maintainable application architecture. I’m particularly interested in Angular’s ecosystem — including RxJS, NgRx state management, and Angular Material — to craft high-performance and user-friendly web applications. I’m excited to leverage my growing Angular skillset to create innovative solutions that address real-world challenges. As an open-source enthusiast, I also aim to contribute to the Angular community and share knowledge with fellow developers.
 
 💻 **Things I love**
 - Coding 
