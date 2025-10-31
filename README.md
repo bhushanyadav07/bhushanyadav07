@@ -9,7 +9,7 @@ I'm a passionate developer with a strong interest in building Progressive Web Ap
 
 🛠**Tech Stack**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://icons8.com/icon/6SWtW8hxZWSo/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
